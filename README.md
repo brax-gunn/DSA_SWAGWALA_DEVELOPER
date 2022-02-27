@@ -34,3 +34,12 @@ Python Solutions of DSA Bootcamp
 | 25    | Maximal Square                           | **MEDIUM** | https://leetcode.com/problems/maximal-square/ |
 | 26    | Nth catalan number                       |  **EASY**  | https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1# |
 | 27    | Unique Binary Search Trees               | **MEDIUM** | https://leetcode.com/problems/unique-binary-search-trees/ |
+
+
+
+### Linked List
+
+| SR NO | Problem Name                 | Difficulty | Problem URL                              |
+| ----- | ---------------------------- | :--------: | ---------------------------------------- |
+| 28    | Delete Node in a Linked List |  **EASY**  | https://leetcode.com/problems/delete-node-in-a-linked-list/ |
+| 29    | Remove Linked List Elements  |  **EASY**  | https://leetcode.com/problems/remove-linked-list-elements/ |
