@@ -32,4 +32,5 @@ Python Solutions of DSA Bootcamp
 | 23    | Minimum Path Sum                         | **MEDIUM** | https://leetcode.com/problems/minimum-path-sum/ |
 | 24    | Minimum Falling Path Sum                 | **MEDIUM** | https://leetcode.com/problems/minimum-falling-path-sum/ |
 | 25    | Maximal Square                           | **MEDIUM** | https://leetcode.com/problems/maximal-square/ |
-
+| 26    | Nth catalan number                       |  **EASY**  | https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1# |
+| 27    | Unique Binary Search Trees               | **MEDIUM** | https://leetcode.com/problems/unique-binary-search-trees/ |
