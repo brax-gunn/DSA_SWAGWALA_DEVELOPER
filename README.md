@@ -43,3 +43,6 @@ Python Solutions of DSA Bootcamp
 | ----- | ---------------------------- | :--------: | ---------------------------------------- |
 | 28    | Delete Node in a Linked List |  **EASY**  | https://leetcode.com/problems/delete-node-in-a-linked-list/ |
 | 29    | Remove Linked List Elements  |  **EASY**  | https://leetcode.com/problems/remove-linked-list-elements/ |
+| 30    | Merge Two Sorted Lists       |  **EASY**  | https://leetcode.com/problems/merge-two-sorted-lists/ |
+| 31    | Reverse Linked List          |  **EASY**  | https://leetcode.com/problems/reverse-linked-list/ |
+
