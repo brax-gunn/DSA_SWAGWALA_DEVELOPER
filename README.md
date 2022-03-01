@@ -39,10 +39,14 @@ Python Solutions of DSA Bootcamp
 
 ### Linked List
 
-| SR NO | Problem Name                 | Difficulty | Problem URL                              |
-| ----- | ---------------------------- | :--------: | ---------------------------------------- |
-| 28    | Delete Node in a Linked List |  **EASY**  | https://leetcode.com/problems/delete-node-in-a-linked-list/ |
-| 29    | Remove Linked List Elements  |  **EASY**  | https://leetcode.com/problems/remove-linked-list-elements/ |
-| 30    | Merge Two Sorted Lists       |  **EASY**  | https://leetcode.com/problems/merge-two-sorted-lists/ |
-| 31    | Reverse Linked List          |  **EASY**  | https://leetcode.com/problems/reverse-linked-list/ |
-
+| SR NO | Problem Name                     | Difficulty | Problem URL                              |
+| ----- | -------------------------------- | :--------: | ---------------------------------------- |
+| 28    | Delete Node in a Linked List     |  **EASY**  | https://leetcode.com/problems/delete-node-in-a-linked-list/ |
+| 29    | Remove Linked List Elements      |  **EASY**  | https://leetcode.com/problems/remove-linked-list-elements/ |
+| 30    | Merge Two Sorted Lists           |  **EASY**  | https://leetcode.com/problems/merge-two-sorted-lists/ |
+| 31    | Reverse Linked List              |  **EASY**  | https://leetcode.com/problems/reverse-linked-list/ |
+| 32    | Add Two Numbers                  | **MEDIUM** | https://leetcode.com/problems/add-two-numbers/ |
+| 33    | Add Two Numbers II               | **MEDIUM** | https://leetcode.com/problems/add-two-numbers-ii/ |
+| 34    | Remove Nth Node From End of List | **MEDIUM** | https://leetcode.com/problems/remove-nth-node-from-end-of-list/ |
+| 35    | Linked List Cycle                |  **EASY**  | https://leetcode.com/problems/linked-list-cycle/ |
+| 36    | Palindrome Linked List           |  **EASY**  | https://leetcode.com/problems/palindrome-linked-list/ |
