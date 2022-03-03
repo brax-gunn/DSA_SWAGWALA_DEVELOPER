@@ -54,3 +54,5 @@ Python Solutions of DSA Bootcamp
 | 38    | Swapping Nodes in a Linked List    | **MEDIUM** | https://leetcode.com/problems/swapping-nodes-in-a-linked-list/ |
 | 39    | Odd Even Linked List               | **MEDIUM** | https://leetcode.com/problems/odd-even-linked-list/ |
 | 40    | Swap Nodes in Pairs                | **MEDIUM** | https://leetcode.com/problems/swap-nodes-in-pairs/ |
+| 41    | Copy List with Random Pointer      | **MEDIUM** | https://leetcode.com/problems/copy-list-with-random-pointer/ |
+| 42    | Reverse Nodes in k-Group           |  **HARD**  | https://leetcode.com/problems/reverse-nodes-in-k-group/ |
